@@ -33,7 +33,7 @@ I propose building an AI-powered Data Cleaning Assistant that automates the data
 ### 📈 Expected Impact
 - ***Time Savings***: Reduce manual data cleaning time by 60–80%
 - ***Data Consistency***: Standardize cleaning logic across teams
-- **Upskilling***: Help junior analysts learn cleaning best practices by example
+- ***Upskilling***: Help junior analysts learn cleaning best practices by example
 - ***Accessibility***: Lower the barrier for non-programmers to prepare data
 
 ## 📎 Summary

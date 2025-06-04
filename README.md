@@ -58,10 +58,17 @@ Upload a CSV file through the interface and receive data insights + cleaning cod
 ---
 
 ## 📸 Screenshots
-![]()
+### Landing Page
+![](https://github.com/DSM2499/AI_Data_Cleaner/blob/main/assets/Home_Page.png)
+
+### Basic Summary of Dataset and Action Plan
+![](https://github.com/DSM2499/AI_Data_Cleaner/blob/main/assets/1st_result.png)
+
+### AI Generated Results
+![](https://github.com/DSM2499/AI_Data_Cleaner/blob/main/assets/2nd_result.png)
 
 ## 📹 YouTube Tutorial
-📺 ()
+📺 https://youtu.be/uppVlDoWTQc
 
 ---
 

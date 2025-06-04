@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy
+pyod
+tabulate
+streamlit
+great_expectations
+openai
+python-dotenv
